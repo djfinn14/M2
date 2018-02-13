@@ -103,7 +103,7 @@ class Storage(object):
     @abstractmethod
     def upload_image(self, image_id):
         """
-        Upload an image to the datastore..
+        Upload an image to the datastore.
 
         :param image_id: Id of image in core DB
         :return: None

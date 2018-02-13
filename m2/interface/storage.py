@@ -1,4 +1,4 @@
-#!/usr/bin/python
+"""Storage Interface"""
 
 from abc import ABCMeta, abstractmethod
 
